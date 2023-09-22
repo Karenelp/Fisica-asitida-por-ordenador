@@ -14,4 +14,4 @@ if n%2==0:
         print("pero podías pensar en algo más original")
 else :
     print (n,"es un número impar")
-    print ("y por tanto, has perdido mis  respetos")
+    print ("y por tanto, se va a morir tu gato")
