@@ -6,7 +6,7 @@ Created on Thu Sep 21 13:24:21 2023
 """
 
 #Dar las soluciones reales a un polinomio de segundo grado (from math import sqrt)
-#e indicar si no existen
+#e indicar si no existen.
 #Extender el programa para dar soluciones complejas
 
 from cmath import sqrt as cs
